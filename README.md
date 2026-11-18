@@ -11,10 +11,10 @@ Berikut ini adalah query serta hasil tampilan dari query untuk memberikan rankin
 
 <img width="1262" height="538" alt="image" src="https://github.com/user-attachments/assets/f5a95659-330a-46dc-8897-2f38dbefd407" />
 
-<img width="390" height="237" alt="image" src="https://github.com/user-attachments/assets/ece19506-e8a6-44b1-b182-cf80f6186e37" />\
+<img width="390" height="237" alt="image" src="https://github.com/user-attachments/assets/ece19506-e8a6-44b1-b182-cf80f6186e37" /><br>
 
 
-**2. Pembuatan Game "FinderQuest" dengan C#**
+<br/>**2. Pembuatan Game "FinderQuest" dengan C#**
 
 Game ini dibuat sebagai proyek Ujian Akhir Semester untuk mata kuliah Object Oriented Programming.
 FinderQuest merupakan game trivia yang menguji pengetahuan umum maupun pengetahuan dalam bidang-bidang tertentu. Pemain akan diberikan beberapa pertanyaan yang harus dijawab dalam jangka waktu yang singkat. Pemain harus menjawab semua pertanyaan dengan benar untuk memenangkan permainanannya.
